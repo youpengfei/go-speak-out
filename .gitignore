@@ -1,0 +1,6 @@
+pkg/
+vendor/*
+debug
+.vscode/
+.idea/
+!vendor/vendor.json
